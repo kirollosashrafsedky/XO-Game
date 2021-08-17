@@ -17,3 +17,7 @@ A simple X-O game that allows two users to play, first the two players enter the
 ## IDE used:
 
     Eclipse
+
+## Video link:
+
+    https://drive.google.com/drive/folders/17XmBawOcsRFfbFQFASd7RjpVbURLbrP-?usp=sharing
